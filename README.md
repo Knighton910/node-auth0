@@ -1,4 +1,4 @@
-s is Node Authentication - A User Login System. 
+This is Node Authentication - A User Login System. 
 ## using passport along with mongodb and express-validator and many others.
 
 I'm builing this project on Udemy with Eduonix. 
